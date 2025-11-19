@@ -152,7 +152,7 @@
  river_seruyan:0 "塞鲁延"
  river_kahayan:0 "卡哈揚"
  river_hong:0 "红河"
- river_min:0 "岷"
+ river_min:0 "闽江"
  river_qiantang:0 "钱塘"
  river_xiang:0 "湘"
  river_gan:0 "赣"
@@ -160,3 +160,10 @@
  river_tone:0 "利根"
  river_kuma:0 "庫馬"
  sea_garabogazkol:0 "卡拉博加兹湾"
+ river_songhua:0 "松花江"
+ river_liaohe:0 "辽河"
+ river_haihe:0 "海河"
+ river_huaihe:0 "淮河"
+ river_pearl:0 "珠江"
+
+
