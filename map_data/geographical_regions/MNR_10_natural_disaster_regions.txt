@@ -1,0 +1,676 @@
+# This file is auto-generated. Do not edit manually.
+
+global_flood_region = {
+	regions = {
+			ganges_river_region daugava_river_region thames_river_region trent_river_region Saimaa_river_region
+			vistula_river_region dniester_river_region danube_river_region dnieper_river_region svir_river_region
+			volkhov_river_region don_river_region volga_river_region indus_river_region casamance_river_region
+			garonne_river_region loire_river_region rhine_river_region seine_river_region elbe_river_region
+			po_river_region rhone_river_region guadiana_river_region guadalquivir_river_region dvina_river_region
+			nile_river_region tigris_river_region niger_river_region sognefjord_river_region hardangerfjord_river_region
+			tapti_river_region kaveri_river_region godavari_river_region mahanadi_river_region irrawaddy_river_region
+			gambia_river_region geba_river_region chao_phraya_river_region amu_darya_river_region yangtze_river_region
+			mahakam_river_region amur_river_region yellow_river_region mekong_river_region pearl_river_region
+			tajo_river_region duero_river_region ebro_river_region scheldt_river_region severn_river_region
+			shannon_river_region ems_river_region weser_river_region oder_river_region neman_river_region
+			southern_bug_river_region gota_alv_river_region klaralven_river_region motala_strom_river_region kura_river_region
+			ural_river_region syr_darya_river_region sabarmati_river_region mahi_river_region narmada_river_region
+			ponnaiyar_river_region palar_river_region penna_river_region krishna_river_region senegal_river_region
+			volta_river_region chari_river_region bahr_el_ghazal_river_region yobe_river_region narva_river_region
+			angara_river_region selenge_river_region nene_river_region sebou_river_region arno_river_region
+			tiber_river_region axios_river_region seyhan_river_region ceyhan_river_region kuban_river_region
+			samur_river_region kuma_river_region maritsa_river_region sassandra_river_region bandama_river_region
+			komoe_river_region ob_river_region nianda_river_region konkoure_river_region oum_er-rbia_river_region
+			batang_hari_river_region musi_river_region solo_river_region kapoeas_river_region seruyan_river_region
+			kahayan_river_region hong_river_region min_river_region qiantang_river_region huaihe_river_region
+			haihe_river_region liaohe_river_region tone_river_region
+	}
+}
+ganges_river_region = {
+	counties = { #67
+		c_asni c_ayodhya c_bandhugadha c_bangaon c_bikrampur c_candhoba c_candradvipa c_chanderi c_charaideo c_chitrakut c_chunar c_dang c_delhi c_doti c_gauda c_gaya c_goalpara c_gurgi c_gwalior c_haruppeswara c_hastinapura c_ilam c_janakpur c_jaunpur c_jharkand c_kalanjara c_kalpi c_kamarupanagara c_kamatapur c_kanyakubja c_karmanta c_katehar c_kol c_kota c_kundina c_kusinagara c_lakhnau c_laksmanavati c_madhupur c_magadha c_mahoba c_manikpur c_mathura c_mithila c_mudgagiri c_nabadwipa c_naimisa c_prayaga c_pundravardhana c_ranthambore c_rothas c_samatata c_sambhal c_saptagrama c_sarangpur c_sasaram c_sravasti c_srihatta c_sripatha c_sthanisvara c_suvarnagram c_tamralipti c_ujjayini c_varanasi c_vidisa c_vodamayutja c_yangwarok
+	}
+}
+
+daugava_river_region = {
+	counties = { #11
+		c_braslau c_gnezdovo c_jersika c_kokenois c_luki c_lukoml c_polotsk c_selpils c_vidzeme c_vitebsk c_zemigalians
+	}
+}
+
+thames_river_region = {
+	counties = { #7
+		c_berkshire c_buckinghamshire c_essex c_kent c_middlesex c_oxfordshire c_surrey
+	}
+}
+
+trent_river_region = {
+	counties = { #8
+		c_east_riding c_leicestershire c_lincolnshire c_north_riding c_nottinghamshire c_staffordshire c_warwickshire c_west_riding
+	}
+}
+
+Saimaa_river_region = {
+	counties = { #3
+		c_kontupohja c_povenets c_viena
+	}
+}
+
+vistula_river_region = {
+	counties = { #23
+		c_berent c_berestye c_cherven c_cieszyn c_czerska c_danzig c_dobrzynska c_dorohychyn c_gostyninska c_krakowska c_kujawy c_lubelska c_malbork c_plocka c_radomska c_ratibor c_sacz c_sandomierska c_stezycka c_tarnowska c_torun c_volodymyr c_zakroczymska
+	}
+}
+
+dniester_river_region = {
+	counties = { #11
+		c_cetatea_alba c_halych c_hotin c_ladyzyn c_lapusna c_lviv c_odessa c_orhei c_soroca c_terebovl c_ushytsia
+	}
+}
+
+danube_river_region = {
+	counties = { #101
+		c_amstetten c_arad c_bacs c_baranya c_barlad c_bekes c_beograd c_berchtesgaden c_bihar c_bodrog c_borsod c_braila c_branicevo c_bucuresti c_burgau c_buzau c_calafat c_calarasi c_campulung c_chilia c_constanta c_craiova c_csanad c_csongrad c_dorostorum c_eichstadt c_eschenlohe c_esztergom c_falkenstein c_freistadt c_frontenhausen c_galati c_geisenhausen c_giurgiu c_graz c_grunningen c_gyor c_hewes c_hohenau c_hohenburg c_hont c_iasi c_ingolstadt c_innsbruck c_keve c_kolon c_komarom c_kranj c_krasso c_krems c_lapusna c_liebnitz c_linz c_ljubljana c_macva c_neamnt c_nikopolis c_nordlingen c_nyitra c_olomouc c_parsberg c_passau c_polovragi c_poszony c_pozega c_prerov c_regensburg c_salzburg c_sankt_polten c_schaumberg c_severin c_soli c_somogy c_stoenesti c_sumadija c_szabolcs c_szekesfehervar c_szerem c_tabla_butii c_targu_jiu c_tigheci c_tolna c_trenscen c_turnovo c_ulm c_usora c_vas c_veszprem c_vidin c_vienna c_visegrad c_vodica c_vratsa c_vrbas c_vukovar c_zagorje c_zagreb c_zarand c_zemplen c_znojmo c_zollern
+	}
+}
+
+dnieper_river_region = {
+	counties = { #29
+		c_babruysk c_cherkassy c_chernigov c_chornobyl c_dnipro c_dubrovytsia c_gnezdovo c_hradyzk c_karachev c_kherson c_khortytsia c_kiev c_korosten c_kozelsk c_lower_dniepr c_mozhaysk c_novgorod_seversky c_oleshye c_orsha c_pereyaslavl c_pinsk c_roslavl c_samar c_sevsk c_slutsk c_smolensk c_starodub c_turov c_voin
+	}
+}
+
+svir_river_region = {
+	counties = { #2
+		c_onega c_vyangi
+	}
+}
+
+volkhov_river_region = {
+	counties = { #7
+		c_luki c_novgorod c_polotsk c_rusa c_sebezh c_tikhvin c_vitebsk
+	}
+}
+
+don_river_region = {
+	counties = { #17
+		c_azov c_bakhmut c_balachev c_durovka c_golden_hills c_karatayak c_kazanskaya c_khopyor c_khursa c_kuzeytorg c_millerovo c_oskol c_sarkel c_sarysyn c_tana c_tuluchezeva c_voronezh
+	}
+}
+
+volga_river_region = {
+	counties = { #53
+		c_ashli c_astrakhan c_beksima c_beloozero c_bolghar c_cheboksary c_cykma c_elabuga c_itil c_jambalar c_karabolam c_karachev c_kargopol c_kazan c_kirillov c_kozelsk c_lachyk-uba c_luki c_manturovo c_mari-turek c_moskva c_mozhaysk c_murom c_nizhny_novgorod c_novosil c_odoyev c_penza c_perm c_plyos c_rakcha c_ryazan c_samar_VB c_saqsin c_saran c_saratov c_sarysyn c_sebur c_serdosk c_sevsk c_suzdal c_toropets c_tula c_tver c_ukek c_ural c_valdai c_vladimir c_vologda c_votkinsk c_vyangi c_yar-calli c_yaroslavl c_yoshkar-ola
+	}
+}
+
+indus_river_region = {
+	counties = { #27
+		c_aror c_bannu c_bhakkar c_bhera c_debul c_dipalpur c_gurjaratra c_kafirkot c_karor c_karur c_lahur c_mansura c_multan c_nandana c_purushapura c_rajanpur c_ranikot c_sakala c_shorkot c_siwistan c_sonda c_sthanisvara c_tribandapura c_trigarta c_uch c_udabhanda c_vijnot
+	}
+}
+
+casamance_river_region = {
+	counties = { #4
+		c_geba c_jame c_jara c_kasa
+	}
+}
+
+garonne_river_region = {
+	counties = { #10
+		c_agenais c_albret c_armagnac c_bordeaux c_limousin c_marsan c_perigord c_quercy c_saintonge c_toulouse
+	}
+}
+
+loire_river_region = {
+	counties = { #19
+		c_anjou c_auxerre c_bellac c_berry c_blois c_forez c_jaligny c_la_marche c_limousin c_lyon c_macon c_montargis c_nantes c_nevers c_orleans c_poitiers c_sancerre c_saumur c_tourraine
+	}
+}
+
+rhine_river_region = {
+	counties = { #39
+		c_aachen c_arnhem c_baden c_bar c_bergh c_bouillon c_breisgau c_briey c_cleves c_colmar c_cologne c_dortmund c_durne c_erbach c_frankfurt c_guelders c_holland c_kaiserslautern c_klingenberg c_koblenz c_liege c_luxembourg c_maastricht c_mainz c_metz c_namur c_nancy c_neufchateau c_oversticht c_rethel c_sayn c_speyer c_strassburg c_sundgau c_trier c_vaucouleurs c_worms c_wurzburg c_zutphen
+	}
+}
+
+seine_river_region = {
+	counties = { #24
+		c_auxerre c_avalois c_bar c_beaumont c_brie_francaise c_cambray c_chalons c_clermont c_coulommiers c_eu c_evreux c_ile_de_france c_langres c_meaux c_montargis c_reims c_rethel c_rouen c_sens c_tonnerrois c_troyes c_valois c_vaucouleurs c_vermandois
+	}
+}
+
+elbe_river_region = {
+	counties = { #25
+		c_berlin c_brandenburg c_brene c_dannenberg c_dessau c_ditmarschen c_dresden c_halberstadt c_hamburg c_havelberg c_juterbog c_litomerice c_lobdaburg c_luneburg c_magdeburg c_mansfeld c_mecklenburg c_meissen c_mersenburg c_naumburg c_orlamunde c_schmalkalden c_stade c_stendal c_wittenberg
+	}
+}
+
+po_river_region = {
+	counties = { #14
+		c_bologna c_canavese c_cremona c_cuneo c_ferrara c_mantua c_monferrato c_novara c_parma c_pavia c_polesine c_tortona c_turin c_verona
+	}
+}
+
+rhone_river_region = {
+	counties = { #15
+		c_bresse c_chalon c_dole c_forcalquier c_geneva c_lyon c_macon c_montpellier c_provence c_savoie c_uses c_valentinois c_venaissin c_viennois c_viviers
+	}
+}
+
+guadiana_river_region = {
+	counties = { #11
+		c_almader c_badajoz c_beja c_caceres c_elvas c_faro c_malagon c_medellin c_merida c_moura c_niebla
+	}
+}
+
+guadalquivir_river_region = {
+	counties = { #6
+		c_andujar c_cabra c_cadiz c_cordoba c_granada c_sevilla
+	}
+}
+
+dvina_river_region = {
+	counties = { #11
+		c_choklema c_kevrola c_kholmogory c_kirillov c_lyubim c_onsthia c_shenkursk c_totma c_ustyug c_velsk c_vologda
+	}
+}
+
+nile_river_region = {
+	counties = { #41
+		c_abu_hammad c_abwab c_al-buhaira c_al-gharbiya c_alodia c_aswan c_asyut c_atbara c_bahnasa c_batn_al-hajar c_berta c_cairo c_damietta c_damot c_dembiya c_dongola c_eleila c_farama c_faras c_fazughli c_gafat c_gezira c_giza c_gumuz c_kalabsha c_kassala c_kurgus c_meroe c_naga c_qasr_ibrim c_qurta c_qus c_sai c_sennar c_shamir c_sharkiya c_showak c_tagali c_ushara c_ushmun c_wolqayt
+	}
+}
+
+tigris_river_region = {
+	counties = { #47
+		c_abbadan c_ahvaz c_aintab c_akhadid c_al-haditha c_aleppo c_amida c_anbar c_badaraya c_baghdad c_basra c_batiha c_dausar c_dawraq c_edessa c_hadithat-ana c_hakkari c_hulwan c_irbil c_iskaf c_karbala c_kermanshah c_khabur c_kirkuk c_kufa c_marash c_mayyafariqin c_mosul c_nasibin c_ninive c_qadisiya c_rahba c_raqqa c_rusafa c_saimara c_samarra c_shahrazur c_sinjar c_sukhna c_syrrusafa c_takrit c_tall_basma c_tib c_tustar c_ubulla c_upper_khabur c_wasit
+	}
+}
+
+niger_river_region = {
+	counties = { #51
+		c_ansongo c_bauchi c_bindugu c_bura c_bure c_bussa c_dakajalan c_dendi c_dodugu c_dyamare c_edo c_fika c_gao c_garoua c_gobir c_guwari c_idoma c_igala c_igbo c_igbomina c_ijaw c_ilo c_ilorin c_jenne c_kaduna c_kankan c_katsina c_kebbi c_keffi c_kouga c_kukiya c_kurmina c_kwararafa c_kyadya c_massina c_niani c_nupe c_opanda c_oudalan c_rano c_say c_sibi_mali c_sikasso c_sokoto c_tabon c_tirakka c_tyendugu c_upper_gurma c_yauri c_zaria c_zarma
+	}
+}
+
+sognefjord_river_region = {
+	counties = { #1
+		c_sogn
+	}
+}
+
+hardangerfjord_river_region = {
+	counties = { #2
+		c_hordalandi c_rogalandi
+	}
+}
+
+tapti_river_region = {
+	counties = { #7
+		c_acalapura c_asirgarh c_burhanpur c_chauragarh c_mandapika c_navasarika c_thalner
+	}
+}
+
+kaveri_river_region = {
+	counties = { #4
+		c_cholamandalam c_kongu c_tagadur c_uraiyur
+	}
+}
+
+godavari_river_region = {
+	counties = { #15
+		c_ashmaka c_balkonda c_barasuru c_canda c_devagiri c_katukuru c_kiranapura c_mahur c_mosala c_mulaka c_ramagiri c_trikuta c_tripuri c_vairagara c_vengipura
+	}
+}
+
+mahanadi_river_region = {
+	counties = { #10
+		c_kataka c_khinjali_mandala c_kiranapura c_kodalaka_mandala c_ratanpur c_rayapura c_sambalpur c_sripuri c_suvarnapura c_viraja
+	}
+}
+
+irrawaddy_river_region = {
+	counties = { #18
+		c_ava c_dagon c_hinthada c_hsenwi c_kusumi c_madaya c_magwe c_minbu c_momauk c_monyin c_myitkyina c_nandian c_pagan c_pegu c_sagaing c_sriksetra c_takon c_yamethin
+	}
+}
+
+gambia_river_region = {
+	counties = { #4
+		c_jame c_jara c_niomi c_saalum
+	}
+}
+
+geba_river_region = {
+	counties = { #7
+		c_bundu c_geba c_kaabu c_kasa c_kokoli c_nalu c_timbi
+	}
+}
+
+chao_phraya_river_region = {
+	counties = { #2
+		c_lop_buri c_nakhon_pathom
+	}
+}
+
+amu_darya_river_region = {
+	counties = { #18
+		c_amol c_balkh c_chaghaniyan c_darghan c_east-tokharestan c_firabr c_gurganj c_kalif c_kath c_khiva c_kurdar c_kurtysh c_nebit_dag c_sarykamysh c_uzboy c_wakhsh c_zamakhshar c_zamm
+	}
+}
+
+yangtze_river_region = {
+	counties = { #41
+		c_changzhou c_changzhou_1 c_chizhou c_ezhou c_fuzhou_3 c_fuzhou_4 c_guizhou c_hanyang c_hengzhou c_hongzhou c_huangzhou c_jiangling c_jiangning c_jiazhou c_jizhou_3 c_kuizhou c_langzhou c_linjiang c_liyang c_liyang_2 c_lujiang c_luzhou_2 c_nankang c_nanxi c_qizhou_1 c_raozhou c_runzhou c_shuzhou c_suzhou_2 c_taizhou_1 c_tanzhou c_wanzhou c_xiazhou_1 c_xuanzhou c_yangzhou c_yongzhou c_yuezhou_1 c_yunyang c_yunzhou_2 c_yuzhou_2 c_zhongzhou
+	}
+}
+
+mahakam_river_region = {
+	counties = { #2
+		c_BOR_kutai_jauh c_BOR_martapura
+	}
+}
+
+amur_river_region = {
+	counties = { #40
+		c_BAL_central_hoewon c_BAL_dazhou c_BAL_delizhen c_BAL_dongpyeong_yizhou c_BAL_east_hoewon c_BAL_huligai c_BAL_ilanshan c_BAL_makhil c_BAL_ningzhou c_BAL_north_anwon c_BAL_south_hoewon c_BAL_west_cheolli c_BAL_west_makhil c_eman_amgun c_eman_beihean c_eman_boli c_eman_choripi c_eman_kerin c_eman_mohean c_eman_molihewen c_eman_murkonno c_eman_nimen c_eman_nurgan c_eman_tudali c_eman_vanda c_LIAO_changchun c_LIAO_taizhou c_SW_fancao c_SW_gonghejiang c_SW_heiergun c_SW_heiheguo c_SW_heilonghean c_SW_heilonglin c_SW_jiqin_hari c_SW_lingxiguo c_SW_luotuoguo c_SW_mengwuo c_SW_puyuzhou c_SW_ruzhejiang c_SW_suihua
+	}
+}
+
+yellow_river_region = {
+	counties = { #21
+		c_bozhou_1 c_dezhou c_dizhou c_guozhou c_henan c_hezhong c_huaizhou c_huayin c_huazhou c_jiangzhou_2 c_puzhou_2 c_qingzhou c_qizhou c_shanzhou_2 c_tongzhou c_weizhou c_weizhou_1 c_xiangzhou c_yunzhou c_zhengzhou c_zichuan
+	}
+}
+
+mekong_river_region = {
+	counties = { #22
+		c_angkor c_angkor_borey c_binh_dai c_ca_mau c_canasha c_dong_si_mahosot c_koh_ker c_kracheh_nokor c_ku_kaeo c_lop_buri c_luang_prabang c_muang_fa_daet c_mukdahan c_prea_vihear c_pursat c_salo_tai c_sambhupura c_sanasomboon c_stung_treng c_ubon_ratchathani c_vien_chan c_vyadhapura
+	}
+}
+
+pearl_river_region = {
+	counties = { #12
+		c_duanzhou c_gongzhou c_guangzhou_1 c_hengzhou_1 c_kangzhou c_shuangzhou c_tengzhou c_wuzhou_1 c_xinzhou_1 c_xunzhou_2 c_yulin c_zhaozhou_1
+	}
+}
+
+tajo_river_region = {
+	counties = { #12
+		c_alcacer_do_sal c_caceres c_castelo_branco c_cuenca c_elvas c_lisboa c_madrid c_malagon c_merida c_mora c_plasencia c_toledo
+	}
+}
+
+duero_river_region = {
+	counties = { #10
+		c_aveiro c_avila c_benavente c_braganza c_cuellar c_olmedo c_porto c_salamanca c_valladolid c_zamora
+	}
+}
+
+ebro_river_region = {
+	counties = { #12
+		c_albarracin c_alcaniz c_castellon c_fraga c_lleida c_najera c_navarra c_tarragona c_tudela c_urgell c_viscaya c_zaragoza
+	}
+}
+
+scheldt_river_region = {
+	counties = { #7
+		c_amiens c_antwerpen c_brabant c_brugge c_cambray c_hainaut c_lille
+	}
+}
+
+severn_river_region = {
+	counties = { #8
+		c_gloucestershire c_maldwyn c_northamptonshire c_oxfordshire c_shropshire c_sir_faesyfed c_warwickshire c_worcestershire
+	}
+}
+
+shannon_river_region = {
+	counties = { #6
+		c_athlone c_breifne c_connacht c_ennis c_mayo c_thomond
+	}
+}
+
+ems_river_region = {
+	counties = { #9
+		c_dokkum c_groningen c_munster c_oldenburg c_osnabruck c_ostfriesland c_oversticht c_paderborn c_tecklenburg
+	}
+}
+
+weser_river_region = {
+	counties = { #11
+		c_bremen c_gottingen c_hannover c_hildesheim c_kassel c_lippe c_minden c_oldenburg c_ostfriesland c_stade c_wolpe
+	}
+}
+
+oder_river_region = {
+	counties = { #25
+		c_breslau c_brzeg c_cieszyn c_gnieznienska c_grunberg c_kaliska c_kolobrzeg c_krajna c_landsberg c_legnica c_lubusz c_miliez c_nysa c_opava c_opole c_pila c_poznanska c_prenzlau c_ratibor c_schweibus c_soldin c_spreewald c_stettin c_wolgast c_wschowska
+	}
+}
+
+neman_river_region = {
+	counties = { #10
+		c_grodno c_kletsk c_memel c_minsk c_novogrudok c_raseiniai c_scalovia c_trakai c_volkovysk c_yatvyagi
+	}
+}
+
+southern_bug_river_region = {
+	counties = { #8
+		c_cherkassy c_kherson c_korsun c_ladyzyn c_odessa c_uman c_ushytsia c_zhytomyr
+	}
+}
+
+gota_alv_river_region = {
+	counties = { #3
+		c_dal c_raniriki c_vastergotland
+	}
+}
+
+klaralven_river_region = {
+	counties = { #3
+		c_dalarna c_eystridalir c_varmland
+	}
+}
+
+motala_strom_river_region = {
+	counties = { #3
+		c_kinda c_narke c_ostergotland
+	}
+}
+
+kura_river_region = {
+	counties = { #11
+		c_aran c_hereti c_kakheti c_khachen c_lori c_mugan c_shaki c_shirvan c_suenik c_tabriz c_tbilisi
+	}
+}
+
+ural_river_region = {
+	counties = { #9
+		c_aqtobe c_atyrau c_ilek c_manatau c_orenburg c_pecheneg c_qyzylyaitsk c_saqsin c_yaitsk
+	}
+}
+
+syr_darya_river_region = {
+	counties = { #12
+		c_chah c_jend c_kara-mugai c_khojand c_oshrusana c_otrar c_raimskoe c_shavgar c_sighnaq c_sutkend c_uzgend_KARA c_yangikent
+	}
+}
+
+sabarmati_river_region = {
+	counties = { #5
+		c_godwad c_khetaka c_medapata c_mohadavasaka c_sarasvata_mandala
+	}
+}
+
+mahi_river_region = {
+	counties = { #7
+		c_dadhipadra c_dasapura c_khetaka c_medapata c_mohadavasaka c_navasarika c_vadodara
+	}
+}
+
+narmada_river_region = {
+	counties = { #11
+		c_asirgarh c_chauragarh c_dadhipadra c_damoh c_dhara c_mandapika c_navasarika c_sarangpur c_tripuri c_vadodara c_vidisa
+	}
+}
+
+ponnaiyar_river_region = {
+	counties = { #4
+		c_cholamandalam c_muluvagil c_tagadur c_tiruvannamalai
+	}
+}
+
+palar_river_region = {
+	counties = { #3
+		c_kanchipuram c_muluvagil c_tiruvannamalai
+	}
+}
+
+penna_river_region = {
+	counties = { #7
+		c_cumbum c_gutti c_nellore c_palakka c_parivi c_penugonda c_renandu
+	}
+}
+
+krishna_river_region = {
+	counties = { #19
+		c_adoni c_banavasi c_cumbum c_gutti c_idatarainadu c_kalyani c_kambampet c_karahataka c_kolhapur c_koppam c_naldurg c_nallamala c_palakka c_pannagallu c_racakonda c_sagar c_taradavadi c_vatapi c_vengipura
+	}
+}
+
+senegal_river_region = {
+	counties = { #13
+		c_bambuk c_bure c_futa_jalon c_galam c_gangaran c_guidimaka c_jowol c_kayor c_konko c_podor c_silla c_takrur c_yelimane
+	}
+}
+
+volta_river_region = {
+	counties = { #17
+		c_afram c_begho c_biun c_bono c_daboya c_dagomba c_ewe c_gonja c_gurma c_kuisugu c_kwahu-akyem c_lobi c_mamprusi c_nanumba c_pendjari c_po c_wa
+	}
+}
+
+chari_river_region = {
+	counties = { #10
+		c_baguirmi c_banre c_barma c_dar_rashid c_diamare c_kera c_kotoko c_kuku c_masa c_tumak
+	}
+}
+
+bahr_el_ghazal_river_region = {
+	counties = { #4
+		c_baguirmi c_bodele c_ghazzal c_jimi
+	}
+}
+
+yobe_river_region = {
+	counties = { #10
+		c_bauchi c_bornu c_garumele c_kaduna c_kano c_katagum c_munio c_rano c_yau c_zaria
+	}
+}
+
+narva_river_region = {
+	counties = { #4
+		c_jersika c_polotsk c_pskov c_sebezh
+	}
+}
+
+angara_river_region = {
+	counties = { #6
+		c_gatsuurgazar c_ilga c_irkutsk c_kada c_kitoi c_okangara
+	}
+}
+
+selenge_river_region = {
+	counties = { #8
+		c_chikoy c_karatsagaan c_khokhoo c_kotokel c_naushki c_selenga c_tunka c_ulan_ude
+	}
+}
+
+nene_river_region = {
+	counties = { #6
+		c_bedford c_buckinghamshire c_cambridgeshire c_huntingdonshire c_lincolnshire c_northamptonshire
+	}
+}
+
+sebou_river_region = {
+	counties = { #4
+		c_fes c_gharb c_meknes c_tangiers
+	}
+}
+
+arno_river_region = {
+	counties = { #5
+		c_arezzo c_firenze c_lucca c_pisa c_siena
+	}
+}
+
+tiber_river_region = {
+	counties = { #4
+		c_orvieto c_roma c_spoleto c_viterbo
+	}
+}
+
+axios_river_region = {
+	counties = { #3
+		c_strumica c_thessalonika c_veria
+	}
+}
+
+seyhan_river_region = {
+	counties = { #2
+		c_cilicia c_lycandus
+	}
+}
+
+ceyhan_river_region = {
+	counties = { #3
+		c_cilicia c_lycandus c_tall_hamid
+	}
+}
+
+kuban_river_region = {
+	counties = { #4
+		c_besinada c_maghas c_tmutarakan c_zichia
+	}
+}
+
+samur_river_region = {
+	counties = { #5
+		c_anket c_astrakhan c_besinada c_cabardinia c_samiran
+	}
+}
+
+kuma_river_region = {
+	counties = { #4
+		c_anket c_cabardinia c_samander c_samiran
+	}
+}
+
+maritsa_river_region = {
+	counties = { #6
+		c_adrianopolis c_beroe c_kalliopolis c_mosynopolis c_philippopolis c_sredets
+	}
+}
+
+sassandra_river_region = {
+	counties = { #7
+		c_dibri c_kru c_lobo c_man c_mau c_wenyon c_worodugu
+	}
+}
+
+bandama_river_region = {
+	counties = { #7
+		c_attie c_boron c_boubo c_dabou c_dibri c_leraba c_nzi
+	}
+}
+
+komoe_river_region = {
+	counties = { #7
+		c_aowin c_attie c_bonduku c_dabou c_kong c_loropeni c_ndenye
+	}
+}
+
+ob_river_region = {
+	counties = { #68
+		c_abugan c_ak-taylak c_aley c_astana c_astrakhanka c_atbasar c_barnaul c_biia c_chadrinsk c_chulym c_dolgujar c_igaran c_ishim c_jangyztau c_jasky_kart c_kachu c_kainsk c_karabas c_karasu c_kartauzh c_kaska c_kazanskoye c_kazym c_kharam-vosh c_kiia c_koda c_kolyvan c_konda_ob c_kondoma c_kosh_kurbay c_koshuki c_kostanay c_kulan_utmas c_kulunda c_kurgan c_kush-murun c_kyin c_laia c_narim c_neramkary c_ob c_omsk c_pavlodar c_pelym c_petropavl c_petropavolsk c_sabakyul c_sasyk_kul c_semey c_sibir c_sochur c_sosva c_tabary c_tara c_tartas_SIB c_teke c_teniz c_terektai c_tobol c_tomsk c_torema c_tselym_dalyn c_tyumen c_ubins c_umiai c_vargashi c_vasyugan c_yenisei
+	}
+}
+
+nianda_river_region = {
+	counties = { #5
+		c_bassa c_gola c_konyan c_nuon c_toma
+	}
+}
+
+konkoure_river_region = {
+	counties = { #4
+		c_nalu c_tamiso c_temne c_timbi
+	}
+}
+
+oum_er-rbia_river_region = {
+	counties = { #4
+		c_fazaz c_marrakesh c_tadla c_tamasna
+	}
+}
+
+batang_hari_river_region = {
+	counties = { #2
+		c_SUM_jambi c_SUM_karang_brahi
+	}
+}
+
+musi_river_region = {
+	counties = { #2
+		c_SUM_east_sumatra c_SUM_palembang
+	}
+}
+
+solo_river_region = {
+	counties = { #2
+		c_JAV_janggala c_JAV_kalingga
+	}
+}
+
+kapoeas_river_region = {
+	counties = { #4
+		c_BOR_sambas c_BOR_sintang c_BOR_sukadana c_BOR_tanah_taman
+	}
+}
+
+seruyan_river_region = {
+	counties = { #2
+		c_BOR_sampit c_BOR_waringin
+	}
+}
+
+kahayan_river_region = {
+	counties = { #2
+		c_BOR_banjar c_BOR_sampit
+	}
+}
+
+hong_river_region = {
+	counties = { #5
+		c_lam_tay c_muze c_nam_dinh c_quoc_oai c_thang_long
+	}
+}
+
+min_river_region = {
+	counties = { #3
+		c_fuzhou_1 c_jian_an c_nanjian
+	}
+}
+
+qiantang_river_region = {
+	counties = { #3
+		c_hangzhou c_muzhou c_yuezhou
+	}
+}
+
+huaihe_river_region = {
+	counties = { #6
+		c_chuzhou_1 c_haozhou c_shouzhou c_sizhou_2 c_suzhou c_yingzhou
+	}
+}
+
+haihe_river_region = {
+	counties = { #11
+		c_beizhou c_cangzhou c_dezhou c_hejian c_jizhou c_jizhou_1 c_mozhou c_weizhou c_xiangzhou c_xingzhou c_youzhou
+	}
+}
+
+liaohe_river_region = {
+	counties = { #4
+		c_LIAO_liaozhou c_LIAO_shenyang c_LIAO_xianzhou c_LIAO_yinzhou
+	}
+}
+
+tone_river_region = {
+	counties = { #4
+		c_kozuke c_musashi c_shimosa c_shimotsuke
+	}
+}
+
